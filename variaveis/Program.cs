@@ -31,6 +31,8 @@ Console.WriteLine("0 " + nome + " tem " + idade + " anos. ");
 // semelhante ao <br> do HTML que ja utilizamos 
 Console.WriteLine($"\n o valor de pi é: {pi}");
 
+Console.WriteLine($"Nome: {nome} ")
+
 
 
 
