@@ -80,7 +80,7 @@ class Program
         double nota3 = Convert.ToDouble(Console.ReadLine());
 
         double media = (nota1 + nota2 + nota3) / 3;
-
+        //
         if (media >= 7)
         {
             Console.WriteLine("Aluno aprovado!");
